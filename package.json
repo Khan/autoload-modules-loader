@@ -1,0 +1,20 @@
+{
+  "name": "autoload-modules-loader",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Kevin Barabash",
+  "license": "MIT",
+  "dependencies": {
+    "loader-utils": "^1.1.0",
+    "source-map": "^0.6.1"
+  },
+  "devDependencies": {
+    "jest": "^21.2.1",
+    "memory-fs": "^0.4.1",
+    "webpack": "^3.10.0"
+  }
+}
