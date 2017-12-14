@@ -1,3 +1,3 @@
-const foo = "foo";
-
-module.exports = foo;
+const depA = require("./dep-a");
+const depB = require("./dep-b");
+const depC = require("./dep-c");

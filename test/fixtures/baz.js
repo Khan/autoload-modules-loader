@@ -1,3 +1,1 @@
-const baz = "baz";
-
-module.exports = baz;
+const depC = require("./dep-c");
