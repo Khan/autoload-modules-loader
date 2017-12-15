@@ -1,3 +1,2 @@
-const bar = "bar";
-
-module.exports = "bar";
+const depB = require("./dep-b");
+const depC = require("./dep-c");
